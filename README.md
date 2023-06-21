@@ -13,7 +13,7 @@
 - autopsy<br>
 - Responder.py<br>
 - Peepdf<br>
-- Torify<br>
+- ToriFY<br>
 - Pdfid<br>
 - Oletools</p>
 <p>I'm working on adding new tools so we can analyze even more topics.<br>
