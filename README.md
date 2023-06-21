@@ -17,7 +17,7 @@
 - Pdfid<br>
 - Oletools</p>
 <p>I'm working on adding new tools so we can analyze even more topics.<br>
-I recommend you to build an isolated container using this image and run Cuckoo Sandbox</p>
+I recommend you to build an isolated container using this image and run Cuckoo Sandbox.</p>
 <br>
 <h2>How to build the Image</h2>
 <p>1. Install Docker<br>
