@@ -1,5 +1,5 @@
 <h1> The Lupa Lab &#128270</h1>
-<p>First things first, thanks for having a look at my repo. I'm thrilled to share the Docker image that I use for Threat Intel (and more) with you. Hope you can find it useful and I'm open to new suggestions.</p>
+<p>First things first, thanks for having a look at my repo. I'm thrilled to share the Docker Image that I use for Threat Intel (and more) with you. Hope you can find it useful and I'm open to new suggestions.</p>
 <br>
 <h2>Tools &#128295;</h2>
 <p>Inside this image you have the following tools already installed: <br>
