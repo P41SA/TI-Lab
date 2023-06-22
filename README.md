@@ -21,7 +21,8 @@ I recommend you to build an isolated container using this image and run Cuckoo S
 <br>
 <h2>How to build the Image</h2>
 <p>1. Install Docker<br>
-2. Download the Dockerfile.<br>
+2. Clone the repository<br>
+  &nbsp; &nbsp; &nbsp; &nbsp; <b>"git clone https://github.com/P41SA/The_Lupa_Lab.git</b>
 3. Run the following command:<br>
   &nbsp; &nbsp; &nbsp; &nbsp; <b>"sudo docker build -t the_lupa_lab .</b>"
 </p>
