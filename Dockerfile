@@ -60,6 +60,6 @@ RUN cd EmailHarvester && pip3 install -r requirements.txt
 RUN mkdir other
 RUN cd other && git clone https://github.com/fastfire/deepdarkCTI
 
-COPY osint_webs.txt /home/pausa/other
+COPY osint_resources.txt /home/pausa/other
 
 
