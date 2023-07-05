@@ -3,7 +3,7 @@
 <br>
 <h2>Tools &#128295;</h2>
 <p>Inside this image you have the following tools already installed: <br>
-<p>[Dmitry](https://github.com/jaygreig86/dmitry) <br>
+<p>[dmitry]([url](https://github.com/jaygreig86/dmitry)) <br>
 Recon-ng <br>
 Dirb <br>
 Dig <br>
