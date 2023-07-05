@@ -22,8 +22,6 @@ tor \
 proxychains \
 exiftool
 
-#RUN pip install -U oletools 
-
 # creación del usuario
 RUN adduser pausa
 RUN echo 'pausa:pausa' | chpasswd
