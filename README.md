@@ -7,13 +7,13 @@
 <a href="https://github.com/lanmaster53/recon-ng">Recon-ng</a> <br>
 Dirb <br>
 Dig <br>
-Nstoolkit <br>
+<a href="https://packages.debian.org/es/buster/dnsutils">Dnsutils</a> <br>
 whois <br>
-Wig <br>
-Blackwidow <br>
-EmailHarvester <br>
+<a href="https://github.com/jekyc/wig">Wig</a> <br>
+<a href="https://github.com/1N3/BlackWidow">Blackwidow</a> <br>
+<a href="https://github.com/maldevel/EmailHarvester">EmailHarvester</a> <br>
 Yara <br>
-Pdfid <br>
+<a href="https://github.com/Rafiot/pdfid">Pdfid</a> <br>
 Exiftools<br>
 Darkdump<br>
 tor<br>
