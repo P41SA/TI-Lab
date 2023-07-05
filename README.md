@@ -3,8 +3,8 @@
 <br>
 <h2>Tools &#128295;</h2>
 <p>Inside this image you have the following tools already installed: <br>
-<p>[dmitry]([url](https://github.com/jaygreig86/dmitry)) <br>
-Recon-ng <br>
+<a href="https://github.com/jaygreig86/dmitry">Dmitry</a> <br>
+<a href="https://github.com/lanmaster53/recon-ng">Recon-ng</a> <br>
 Dirb <br>
 Dig <br>
 Nstoolkit <br>
